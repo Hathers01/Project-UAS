@@ -2676,7 +2676,7 @@ ul {
 /* line 2, E:/167 Bizcon Business/Bizcon_html/sass/_banner.scss */
 .banner_part {
   height: 880px;
-  width: 1450px;
+
   position: relative;
   overflow: hidden;
   background-image: url(../img/banner_bg.png);
